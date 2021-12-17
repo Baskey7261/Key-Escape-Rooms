@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+.mob {
+    display: none;
+}
+
 body {
     position: relative;
     z-index: -1;
@@ -177,6 +181,10 @@ header {
     font-weight: 200;
 }
 
+.icon {
+    font-family: "icomoon";
+}
+
 .fb::before {
     content: "\ea91";
 }
@@ -187,6 +195,19 @@ header {
 
 .ins::before {
     content: "\ea92";
+}
+
+.menu::before {
+    content: "\e9bd";
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin: 0px;
+    padding: 0px;
+    color: #888;
+    cursor: pointer;
 }
 
 .bodyTitle {
@@ -384,4 +405,20 @@ footer ul {
     grid-column: 1/-1;
     text-align: center;
     display: block;
+}
+
+@media (max-width:500px) {
+    .desk {
+        display: none;
+    }
+    .mob {
+        display: block;
+    }
+    nav {
+        display: none;
+        margin: 0px auto;
+        border: 1px solid red;
+        background-color: white;
+        color: #444;
+    }
 }
