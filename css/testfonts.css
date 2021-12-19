@@ -1,0 +1,286 @@
+@font-face {
+    font-family: 'ABeeZee-Regular';
+    src: url('../assets/testfonts/ABeeZee-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Bold';
+    src: url('../assets/testfonts/Comfortaa-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Bold';
+    src: url('../assets/testfonts/Comfortaa-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Light';
+    src: url('../assets/testfonts/Comfortaa-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Light';
+    src: url('../assets/testfonts/Comfortaa-Light.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Regular';
+    src: url('../assets/testfonts/Comfortaa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Regular';
+    src: url('../assets/testfonts/Comfortaa-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DidactGothic-Regular';
+    src: url('../assets/testfonts/DidactGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DidactGothic-Regular';
+    src: url('../assets/testfonts/DidactGothic-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-Bold';
+    src: url('../assets/testfonts/Hind-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-Bold';
+    src: url('../assets/testfonts/Hind-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-Light';
+    src: url('../assets/testfonts/Hind-Light.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-Medium';
+    src: url('../assets/testfonts/Hind-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-Regular';
+    src: url('../assets/testfonts/Hind-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hind-SemiBold';
+    src: url('../assets/testfonts/Hind-SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Black';
+    src: url('../assets/testfonts/Poppins-Black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-BlackItalic';
+    src: url('../assets/testfonts/Poppins-BlackItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-BlackItalic';
+    src: url('../assets/testfonts/Poppins-BlackItalic.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../assets/testfonts/Poppins-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-BoldItalic';
+    src: url('../assets/testfonts/Poppins-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraBold';
+    src: url('../assets/testfonts/Poppins-ExtraBold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraBoldItalic';
+    src: url('../assets/testfonts/Poppins-ExtraBoldItalic.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraLight';
+    src: url('../assets/testfonts/Poppins-ExtraLight.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraLightItalic';
+    src: url('../assets/testfonts/Poppins-ExtraLightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Italic';
+    src: url('../assets/testfonts/Poppins-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('../assets/testfonts/Poppins-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-LightItalic';
+    src: url('../assets/testfonts/Poppins-LightItalic.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../assets/testfonts/Poppins-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-MediumItalic';
+    src: url('../assets/testfonts/Poppins-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../assets/testfonts/Poppins-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('../assets/testfonts/Poppins-SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-SemiBoldItalic';
+    src: url('../assets/testfonts/Poppins-SemiBoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('../assets/testfonts/Poppins-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins-ThinItalic';
+    src: url('../assets/testfonts/Poppins-ThinItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand-Bold';
+    src: url('../assets/testfonts/Quicksand-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand-Light';
+    src: url('../assets/testfonts/Quicksand-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand-Medium';
+    src: url('../assets/testfonts/Quicksand-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand-Regular';
+    src: url('../assets/testfonts/Quicksand-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Righteous-Regular';
+    src: url('../assets/testfonts/Righteous-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABeeZee-Italic';
+    src: url('../assets/testfonts/ABeeZee-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABeeZee-Regular';
+    src: url('../assets/testfonts/ABeeZee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
